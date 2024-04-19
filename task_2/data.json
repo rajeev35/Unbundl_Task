@@ -1,0 +1,65 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "5-star",
+            "price": 450,
+            "image": "https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 2,
+            "title": "dairy milk",
+            "price": 100,
+            "image": "https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 3,
+            "title": "kitkat",
+            "price": 120,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 4,
+            "title": "chocolate",
+            "price": 1100,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 5,
+            "title":"kitkat" ,
+            "price": 2200,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 6,
+            "title": "snacker",
+            "price": 80,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 7,
+            "title": "gems",
+            "price": 330,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 8,
+            "title": "perk",
+            "price": 55,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 9,
+            "title": "dairy milk",
+            "price": 130,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        },
+        {
+            "id": 10,
+            "title": "milkyway",
+            "price": 50,
+            "image":"https://source.unsplash.com/random/?chocolates"
+        }
+    ]
+}
